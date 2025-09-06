@@ -1,2 +1,1 @@
-Different notes in feature.
-Appending notes instead of overwritting.
+These are my notes.
